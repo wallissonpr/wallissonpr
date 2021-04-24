@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋, meu nome é Wallisson
+#### Sou um estudante iniciante de programação!
+Decidi estudar programação por hobby, porém espero estudar o suficiente para conseguir trabalhar no ramo.
 
-<!--
-**wallissonpr/wallissonpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON
 
-Here are some ideas to get you started:
+- 🔭 Estou atualmente trabalhando em projetos simples para aplicar tudo o que eu aprender. 🤠
+- 🌱 Estou atualmente estudando apenas python! 
+- ⚡ Fun fact: meu gato se chama mamãe! 🐈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wallissonpr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/walixxo)  
+
