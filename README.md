@@ -1,7 +1,5 @@
 # Wallisson Pires 
 
-Soon a developer
-
 Currently learning about HTML, CSS and Javascript
 
 Skills:
