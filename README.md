@@ -4,4 +4,7 @@ Soon a developer
 
 Currently learning about HTML, CSS and Javascript
 
-"Ano passado eu morri, mas esse ano eu não morro"
+Skills:
+Python • basic
+HTML, CSS e JavaScript • basic
+React + Typescript • basic
