@@ -1,8 +1,5 @@
 ### Hi, I'm Wallisson 👋
 
- <img align="right" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" height="400" />
-
-
 ## I'm a Beginner Dev
 - I’m currently learning React Native 🌱
 
