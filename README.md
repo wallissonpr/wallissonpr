@@ -1,4 +1,4 @@
-### Hi, I'm Wallisson 🐱‍🐉
+### Hi, I'm Wallisson
 
 ## Front-end Developer
 
